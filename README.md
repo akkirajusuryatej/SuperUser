@@ -2,13 +2,14 @@
 
 Hello :) Welcome to the SuperUser wiki!
 
-This is the su binary for Superuser on Android.
+This is the SU binary for Superuser on Android.
 
-Any app that requires root access must call this binary in order to be given root access.
+Any app that requires root access must call this binary in order to get root access.
 
 This binary is tested and targeted for Android 4.2+.
 
 Building the su binary
+
 1.Checkout the code.
 
 2.Set environment variables :
@@ -23,5 +24,5 @@ Building the su binary
 
 4.Run ndk-build
 
-5.Done..Your SU binary is ready.Have fun :)
+5.Done..Your SU binary is ready. Have fun :)
 
